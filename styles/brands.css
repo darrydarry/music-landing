@@ -1,0 +1,6 @@
+.brands {
+  display: flex;
+  justify-content: space-between;
+  background: #293942;
+  padding: 70px 223px;
+}

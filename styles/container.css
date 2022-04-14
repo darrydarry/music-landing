@@ -1,0 +1,29 @@
+.container {
+  background-image: url("/images/background.jpg");
+  padding-left: 200px;
+  padding-top: 200px;
+  padding-bottom: 280px;
+  
+}
+
+.description {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 55px;
+  color: #f9f8ff;
+}
+
+.tryfree {
+  width: 211px;
+  padding: 15px 0;
+  background: #7971e9;
+  border-radius: 4px;
+  color: #f4eeff;
+  cursor: pointer;
+  margin-bottom: 25px;
+}
+
+.m-r-15 {
+  margin-right: 15px;
+}

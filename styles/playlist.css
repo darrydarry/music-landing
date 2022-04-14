@@ -1,0 +1,47 @@
+.playlist-title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 55px;
+  color: #f9f8ff;
+}
+
+.playlist-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: rgba(249, 248, 255, 0.5);
+  width: 610px;
+}
+
+.playlist-link {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  color: #7971e9;
+  text-decoration: none;
+}
+
+.playlists-wrapp {
+  display: flex;
+  margin-left: 200px;
+  padding: 80px 0;
+  box-shadow: inset 0px 30px 20px rgba(26, 26, 26, 0.25);
+}
+
+.playlists-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.artboards {
+  display: flex;
+  margin-left: 220px;
+}
+
+.artboards img {
+    margin-right: 100px;
+}
