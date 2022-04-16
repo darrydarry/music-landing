@@ -1,0 +1,59 @@
+.main-title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 55px;
+  color: #f9f8ff;
+}
+
+.titles {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 37px;
+  color: #f9f8ff;
+}
+
+.titles-description {
+  width: 610px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 27px;
+  color: rgba(249, 248, 255, 0.5);
+}
+
+.content-text {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.flex-radiohead {
+    display: flex;
+    flex-direction: column;
+    order: 1;
+}
+
+.flex-wifi {
+    display: flex;
+    flex-direction: column;
+    order: 3;
+}
+
+.flex-collection {
+    display: flex;
+    flex-direction: column;
+    order: 2;
+}
+
+.flex-made {
+    display: flex;
+    flex-direction: column;
+    order: 4;
+}
+
+.content-wrapp {
+    padding-left: 200px;
+    width: 1367px;
+}
