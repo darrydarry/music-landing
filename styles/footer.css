@@ -78,12 +78,12 @@
 
 .follow-links {
   display: flex;
-  justify-content: space-evenly;
-  padding-right: 500px;
+  justify-content: space-between;
   padding-top: 34px;
 }
 
 .follow-wrapp {
-  margin-left: 200px;
-  height: 100px;
+  padding: 34px 0;
+  width: 281px;
+  margin: auto;
 }
